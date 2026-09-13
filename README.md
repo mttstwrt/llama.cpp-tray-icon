@@ -17,7 +17,7 @@ The icon colour is the state at a glance:
 ## Quick start
 
 ```sh
-git clone <this repo> && cd llama-tray
+git clone git@github.com:mttstwrt/llama.cpp-tray-icon.git && cd llama-tray
 ./llama-start.sh
 ```
 
